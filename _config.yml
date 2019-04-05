@@ -1,0 +1,33 @@
+title: I can write shaders for you!
+description: Portfolio Ronja Böhringer
+show_downloads: true
+
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://www.ronja.space" # change this to the base hostname & protocol for your site
+
+google_analytics: UA-124040112-1
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+pygments_options:
+  tabsize: 4
+
+theme: # leave it empty
+future: true
+
+# social
+author: "Ronja Böhringer"
+image: /thumbnail-jumbo.png
+
+#  site:
+facebook:
+  #publisher: 1592372034171500
+  #profile_id: 1809805629
+  #app_id: 1798910940422432 # cayman-blog
+  #authors: lorepirri
+#  admins:
+
+plugins:
+#  - jekyll-feed #RSS feed
