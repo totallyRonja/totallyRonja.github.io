@@ -12,13 +12,13 @@ You can best contact me via email at <a href='mailto:&#099;&#111;&#110;&#116;&#0
 
 I worked on Good Company for 10 months while doing my internship as a generalist programmer at Chasing Carrots.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ofPEJzXZZJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/ofPEJzXZZJQ' frameborder='0' allowfullscreen></iframe></div>
 
 ### Elemates:
 
 Elemates was a student project with over 70 people making a game in about 4 months. I was one of the two leaders of the programming team leading the team as well as doing most of the graphics programming.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T6hEDq4kqv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/T6hEDq4kqv8' frameborder='0' allowfullscreen></iframe></div>
 
 ### Tutorials on <http://ronja-tutorials.com>
 
