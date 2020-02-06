@@ -22,6 +22,6 @@ Elemates was a student project with over 70 people making a game in about 4 mont
 
 ### Tutorials on <http://ronja-tutorials.com>
 
-A collection of tutorials for beginners who want to learn how to write shaders. This website is entirely maintained by myself and has a growing collection of 40 different shader tutorials at the moment.
+A collection of tutorials for beginners who want to learn how to write shaders. This website is entirely maintained by myself and has a growing collection of different shader tutorials at the moment.
 
 ![Reel of the tutorials as a animated GIF.](assets/images/GifReel.gif)
