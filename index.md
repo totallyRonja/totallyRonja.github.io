@@ -12,7 +12,7 @@ You can best contact me via email at <a href='mailto:&#099;&#111;&#110;&#116;&#0
 
 I worked on Good Company for 10 months while doing my internship as a generalist programmer at Chasing Carrots.
 
-<div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/ofPEJzXZZJQ' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/XluplAWL8hY' frameborder='0' allowfullscreen></iframe></div>
 
 ### Elemates:
 
