@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pieces on Portfolio</title>
-    <link>https://www.ronja-tutorials.com/pieces/</link>
+    <link>https://www.ronja.space/pieces/</link>
     <description>Recent content in Pieces on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.ronja-tutorials.com/pieces/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.ronja.space/pieces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freelance Work</title>
-      <link>https://www.ronja-tutorials.com/pieces/02_freelance/</link>
+      <link>https://www.ronja.space/pieces/02_freelance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ronja-tutorials.com/pieces/02_freelance/</guid>
+      <guid>https://www.ronja.space/pieces/02_freelance/</guid>
       <description>In my two years of freelancing I worked on many projects. The biggest ones being a Pacman clone for the car software company Vector, first as a game to entertain clients at trade fairs, then as a online game on their website and a language learning game for norwegian children (distributed, by Cappelen Damm, a mayor norwegian book publisher), designed to be embedded into their website and run on school iPad devices.</description>
     </item>
     
     <item>
       <title>Personal Projects</title>
-      <link>https://www.ronja-tutorials.com/pieces/04_minor_projects/</link>
+      <link>https://www.ronja.space/pieces/04_minor_projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ronja-tutorials.com/pieces/04_minor_projects/</guid>
+      <guid>https://www.ronja.space/pieces/04_minor_projects/</guid>
       <description>Personal Experiments I also tend to dabble in smaller projects out of curiosity and to learn things. Two recent examples of this are making cracks in flat ground in unity by utilizing stencil buffers and 2d lights with 1d shadowmaps that I think are very neat and cheap to render.
 And heres me trying to spice it up with a few particles ✨ pic.twitter.com/HWKOnwVZfz
 &amp;mdash; Ronja✨ (@totallyRonja) February 16, 2021  Sometimes you just have to work on 2d lightmaps all day.</description>
@@ -28,19 +28,19 @@ And heres me trying to spice it up with a few particles ✨ pic.twitter.com/HWKO
     
     <item>
       <title>Programmer on Good Company</title>
-      <link>https://www.ronja-tutorials.com/pieces/01_good_company/</link>
+      <link>https://www.ronja.space/pieces/01_good_company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ronja-tutorials.com/pieces/01_good_company/</guid>
+      <guid>https://www.ronja.space/pieces/01_good_company/</guid>
       <description>I was one of about 9 people working at chasing carrots while working on Good Company. Because of the nature of such a small team I did programming on all corners of the game. Backend programming in both Go and C++ (the backend was rewritten in C++ at one point) and programming in the frontend which included everything from expanding the networking code, ui programming, graphics programming, tweaking and expanding gameplay and of course lots of bugfixing.</description>
     </item>
     
     <item>
       <title>Shader Tutorials</title>
-      <link>https://www.ronja-tutorials.com/pieces/03_shader_tutorials/</link>
+      <link>https://www.ronja.space/pieces/03_shader_tutorials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ronja-tutorials.com/pieces/03_shader_tutorials/</guid>
+      <guid>https://www.ronja.space/pieces/03_shader_tutorials/</guid>
       <description>What I&amp;rsquo;m probably best known for online are my shader tutorials on https://www.ronja-tutorials.com/ where I do my best to explain realtime shaders in unity with over 50 tutorials, starting from the ground up, extending to complex topics like signed distance fields and compute shaders.</description>
     </item>
     
