@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Programmer on Good Company | Portfolio</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="I was one of about 9 people working at chasing carrots while working on Good Company. Because of the nature of such a small team I did programming on all corners of the game. Backend programming in both Go and C&#43;&#43; (the backend was rewritten in C&#43;&#43; at one point) and programming in the frontend which included everything from expanding the networking code, ui programming, graphics programming, tweaking and expanding gameplay and of course lots of bugfixing.">
+    <meta name="generator" content="Hugo 0.76.5" />
+    
+    
+		<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+		<link rel="canonical" href="https://www.ronja-tutorials.com/pieces/01_good_company/">
+
+    
+    
+      <link href="/dist/css/app.d876a0cc99d23e9edadbac7fc6abde13.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/css/main.css">
+    
+
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Programmer on Good Company" />
+<meta property="og:description" content="I was one of about 9 people working at chasing carrots while working on Good Company. Because of the nature of such a small team I did programming on all corners of the game. Backend programming in both Go and C&#43;&#43; (the backend was rewritten in C&#43;&#43; at one point) and programming in the frontend which included everything from expanding the networking code, ui programming, graphics programming, tweaking and expanding gameplay and of course lots of bugfixing." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.ronja-tutorials.com/pieces/01_good_company/" />
+
+<meta itemprop="name" content="Programmer on Good Company">
+<meta itemprop="description" content="I was one of about 9 people working at chasing carrots while working on Good Company. Because of the nature of such a small team I did programming on all corners of the game. Backend programming in both Go and C&#43;&#43; (the backend was rewritten in C&#43;&#43; at one point) and programming in the frontend which included everything from expanding the networking code, ui programming, graphics programming, tweaking and expanding gameplay and of course lots of bugfixing.">
+
+<meta itemprop="wordCount" content="460">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Programmer on Good Company"/>
+<meta name="twitter:description" content="I was one of about 9 people working at chasing carrots while working on Good Company. Because of the nature of such a small team I did programming on all corners of the game. Backend programming in both Go and C&#43;&#43; (the backend was rewritten in C&#43;&#43; at one point) and programming in the frontend which included everything from expanding the networking code, ui programming, graphics programming, tweaking and expanding gameplay and of course lots of bugfixing."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Portfolio
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw7 center ph3">
+    <header class="mt5 w-100">
+      <h1 class="f1 athelas mt3 mb1 mid-gray">Programmer on Good Company</h1>
+      
+
+      
+      
+		</header>
+
+    <div class="w-100 nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img mid-gray pr4-l"><div>
+				
+				
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/XluplAWL8hY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>I was one of about 9 people working at chasing carrots while working on Good Company. Because of the nature of such a small team I did programming on all corners of the game. Backend programming in both Go and C++ (the backend was rewritten in C++ at one point) and programming in the frontend which included everything from expanding the networking code, ui programming, graphics programming, tweaking and expanding gameplay and of course lots of bugfixing.
+Sadly I do not have any access to the code and many of the assets anymore.</p>
+<p>Some of the most notable features I added include&hellip;</p>
+<h2 id="dynamic-product-icons">Dynamic Product Icons <a href="#dynamic-product-icons" class="hanchor" ariaLabel="Anchor">🔗&#xFE0E;</a> </h2>
+<p>In Good Company items are materials, modules or products. Materials and modules can be represented by simple icons, but products had multiple parts making up their visuals, leading to thousands of possibilities. I wrote a system that allows authoring of hierarchical models with part names and then rendering them into icons, but only as they&rsquo;re first seen in an inventory by the player. Addtionally the system cached a certain amount of icons to not rerender icons too often, but also dont keep icons that are only seen once in a blue moon into memory.</p>
+<p>This system also ended up being handy for labels on boxes in the game world as well as dynamic models in the &ldquo;blueprint editor&rdquo; where you design new products for your company to produce.</p>
+<p><img src="/assets/images/ProductShelf.png" alt=""></p>
+<p><img src="/assets/images/ProductAssembly.png" alt=""></p>
+<h2 id="outline-system">Outline System <a href="#outline-system" class="hanchor" ariaLabel="Anchor">🔗&#xFE0E;</a> </h2>
+<p>The outline system I wrote for Good Company works with any mesh, is easy to add to any renderer in the game and to enable/disable, renders outlines in a faded out way when behind other objects and scales extremely well with multiple outlines, including outlines with multiple colors on screen.</p>
+<p><img src="/assets/images/gc_outline.png" alt=""></p>
+<h2 id="a-discord-bot">A Discord Bot <a href="#a-discord-bot" class="hanchor" ariaLabel="Anchor">🔗&#xFE0E;</a> </h2>
+<p>While I worked on Good Company, we started building a community upcoming to the early access launch. To keep the community more active and engaged I, at first with another programmer but then maintaining it myself, made a discord bot that allowed players to enact a simplified version of the game, funding companies, creating products and selling them on a changing market.</p>
+<p><img src="/assets/images/discord_bot.png" alt=""></p>
+<p>Part of this project was also a web interface where you can see the developments of the game over time.</p>
+<p><img src="/assets/images/discord_stats.png" alt=""></p>
+<h2 id="an-animation-tool">An Animation Tool <a href="#an-animation-tool" class="hanchor" ariaLabel="Anchor">🔗&#xFE0E;</a> </h2>
+<p>One other thing I worked on and that I&rsquo;d like to mention is an animation tool that I wrote. It utilized the existing game assets and architecture to show scripted sequences. In addition to replicating all movements that existed in the game at the time and some UI effects coordinated between multiple actors, it supports jumping to time points and generating some &ldquo;busy looking&rdquo; movements procedurally. This tool was used to make a trailer for Good Company, first shown at gamescom 2018 (it sadly isnt online anymore).</p>
+
+			</div><ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.ronja-tutorials.com" >
+    &copy;  Portfolio 2021 
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

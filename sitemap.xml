@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/pieces/02_freelance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/pieces/04_minor_projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/pieces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/pieces/01_good_company/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/pieces/03_shader_tutorials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ronja-tutorials.com/tags/</loc>
+  </url>
+  
+</urlset>
