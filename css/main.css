@@ -1,0 +1,45 @@
+body {
+    color: antiquewhite;
+    font-size: x-large;
+}
+
+.bg {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url("../img/space.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    color: aquamarine;
+}
+
+a:visited {
+    color: aqua;
+}
+
+.cover {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+}
+
+.witch {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+}
+
+ul {
+    height: fit-content;
+}
